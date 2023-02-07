@@ -1,4 +1,4 @@
-#Decision making
+#Decision makingg
 #if statement are used to check if a boolean is true or false
 
 z=7<8
